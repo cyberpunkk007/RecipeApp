@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">30DaysOfRecipes</string>
+    <string name="dish_1">Affogato Coffee Ice Cream</string>
+    <string name="dish_2">Almond Biscotti with Cranberries</string>
+    <string name="dish_3">Bruschetta</string>
+    <string name="dish_4">Creamy Tortellini Soup</string>
+    <string name="dish_5">Grilled Vegetable Lasagne</string>
+    <string name="dish_6">Home-Style Baked Pasta</string>
+    <string name="dish_7">Italian Butter Cookies</string>
+    <string name="dish_8">Italian Hot Chocolate</string>
+    <string name="dish_9">Ravioli with Cocom=nut Milk anf Lemongrass</string>
+    <string name="dish_10">Spaghetti</string>
+    <string name="dish_11">Carrot Halwa Trifle</string>
+    <string name="dish_12">Chole Aloo Tikki</string>
+    <string name="dish_13">Chole Bhature</string>
+    <string name="dish_14">Dal Makhani</string>
+    <string name="dish_15">Dosa</string>
+    <string name="dish_16">Gulab Jamun</string>
+    <string name="dish_17">Kachori</string>
+    <string name="dish_18">Kesar Pista Kulfi</string>
+    <string name="dish_19">Naan</string>
+    <string name="dish_20">Pav Bhaji</string>
+    <string name="dish_21">Poha</string>
+    <string name="dish_22">Shahi Paneer</string>
+    <string name="dish_23">Uttapam</string>
+    <string name="dish_24">Veg Biryani</string>
+    <string name="dish_25">Veggie Samosas</string>
+    <string name="dish_26">Croissants</string>
+    <string name="dish_27">French Onion Soup</string>
+    <string name="dish_28">French Toast</string>
+    <string name="dish_29">Macaroons</string>
+    <string name="dish_30">Mint Chocolate with Cream</string>
+
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_30">Day 30</string>
+
+<!--    <string-array name="recipe_1">-->
+<!--        <item>Recipe of Affogato Coffee Ice Cream</item>-->
+<!--        <item>First line</item>-->
+<!--        <item>second line</item>-->
+<!--        <item>third line</item>-->
+<!--    </string-array>-->
+    <string name="recipe_1">Recipe of Affogato Coffee Ice Cream</string>
+    <string name="recipe_2">Recipe of Almond Biscotti with Cranberries</string>
+    <string name="recipe_3">Recipe of Brschetta</string>
+    <string name="recipe_4">Recipe of </string>
+    <string name="recipe_5">Recipe of </string>
+    <string name="recipe_6">Recipe of </string>
+    <string name="recipe_7">Recipe of </string>
+    <string name="recipe_8">Recipe of </string>
+    <string name="recipe_9">Recipe of </string>
+    <string name="recipe_10">Recipe of </string>
+    <string name="recipe_11">Recipe of </string>
+    <string name="recipe_12">Recipe of </string>
+    <string name="recipe_13">Recipe of </string>
+    <string name="recipe_14">Recipe of </string>
+    <string name="recipe_15">Recipe of </string>
+    <string name="recipe_16">Recipe of </string>
+    <string name="recipe_17">Recipe of </string>
+    <string name="recipe_18">Recipe of </string>
+    <string name="recipe_19">Recipe of </string>
+    <string name="recipe_20">Recipe of </string>
+    <string name="recipe_21">Recipe of </string>
+    <string name="recipe_22">Recipe of </string>
+    <string name="recipe_23">Recipe of </string>
+    <string name="recipe_24">Recipe of </string>
+    <string name="recipe_25">Recipe of </string>
+    <string name="recipe_26">Recipe of </string>
+    <string name="recipe_27">Recipe of </string>
+    <string name="recipe_28">Recipe of </string>
+    <string name="recipe_29">Recipe of </string>
+    <string name="recipe_30">Recipe of </string>
+</resources>
