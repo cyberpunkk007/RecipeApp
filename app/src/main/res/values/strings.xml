@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">30DaysOfRecipes</string>
+    <string name="app_name">Flavorly</string>
     <string name="dish_1">Affogato Coffee Ice Cream</string>
     <string name="dish_2">Almond Biscotti with Cranberries</string>
     <string name="dish_3">Bruschetta</string>
@@ -8,7 +8,7 @@
     <string name="dish_6">Home-Style Baked Pasta</string>
     <string name="dish_7">Italian Butter Cookies</string>
     <string name="dish_8">Italian Hot Chocolate</string>
-    <string name="dish_9">Ravioli with Cocom=nut Milk anf Lemongrass</string>
+    <string name="dish_9">Ravioli with Coconut Milk and Lemongrass</string>
     <string name="dish_10">Spaghetti</string>
     <string name="dish_11">Carrot Halwa Trifle</string>
     <string name="dish_12">Chole Aloo Tikki</string>
@@ -68,34 +68,1183 @@
 <!--        <item>second line</item>-->
 <!--        <item>third line</item>-->
 <!--    </string-array>-->
-    <string name="recipe_1">Recipe of Affogato Coffee Ice Cream</string>
-    <string name="recipe_2">Recipe of Almond Biscotti with Cranberries</string>
-    <string name="recipe_3">Recipe of Brschetta</string>
-    <string name="recipe_4">Recipe of </string>
-    <string name="recipe_5">Recipe of </string>
-    <string name="recipe_6">Recipe of </string>
-    <string name="recipe_7">Recipe of </string>
-    <string name="recipe_8">Recipe of </string>
-    <string name="recipe_9">Recipe of </string>
-    <string name="recipe_10">Recipe of </string>
-    <string name="recipe_11">Recipe of </string>
-    <string name="recipe_12">Recipe of </string>
-    <string name="recipe_13">Recipe of </string>
-    <string name="recipe_14">Recipe of </string>
-    <string name="recipe_15">Recipe of </string>
-    <string name="recipe_16">Recipe of </string>
-    <string name="recipe_17">Recipe of </string>
-    <string name="recipe_18">Recipe of </string>
-    <string name="recipe_19">Recipe of </string>
-    <string name="recipe_20">Recipe of </string>
-    <string name="recipe_21">Recipe of </string>
-    <string name="recipe_22">Recipe of </string>
-    <string name="recipe_23">Recipe of </string>
-    <string name="recipe_24">Recipe of </string>
-    <string name="recipe_25">Recipe of </string>
-    <string name="recipe_26">Recipe of </string>
-    <string name="recipe_27">Recipe of </string>
-    <string name="recipe_28">Recipe of </string>
-    <string name="recipe_29">Recipe of </string>
-    <string name="recipe_30">Recipe of </string>
+    <!--  <![CDATA[body]]> didn't work,&#10; didn't work -->
+    <string name="recipe_1">
+        \nIngredients:
+        \n\n- 1 scoop of high-quality vanilla ice cream\n- 1 shot (about 1 ounce) of hot espresso coffee\n- Optional garnishes: chocolate shavings, chopped nuts, whipped cream, or a drizzle of liqueur (e.g., amaretto or Kahlúa)
+        \n\nNotes:
+        \n\n- Use high-quality vanilla ice cream or gelato for the best results. You can also try different ice cream flavors like chocolate or caramel for variations.
+        \n- For the espresso shot, you can use an espresso machine or a stovetop espresso maker (Moka pot). If you do not have espresso equipment, you can use strong brewed coffee as a substitute.
+        \n- The garnishes are optional and can be customized to your preference. Chocolate shavings and chopped nuts add texture, while whipped cream and liqueur provide additional flavors.
+        \n\nInstructions:\n\n1. Prepare a shot of espresso using an espresso machine or Moka pot. If you are using brewed coffee, make sure it is strong and hot.
+        \n2. While the espresso is brewing, place a scoop of vanilla ice cream in a serving glass or dish. You can use a martini or dessert glass for an elegant presentation.
+        \n3. Once the espresso is ready, immediately pour it over the ice cream. The heat of the espresso will start to melt the ice cream.
+        \n4. If desired, add your choice of garnishes, such as chocolate shavings, chopped nuts, a dollop of whipped cream, or a drizzle of liqueur.
+        \n5. Serve the Affogato immediately while it is still hot and the ice cream is melting. Use a long spoon to enjoy the combination of hot coffee and cold ice cream.\n
+    </string>
+    <string name="recipe_2">
+        \nIngredients:
+        \n\n- 2 cups all-purpose flour
+        \n- 1 cup granulated sugar
+        \n- 1/2 cup unsalted butter, softened
+        \n- 2 large eggs
+        \n- 1 1/2 teaspoons baking powder
+        \n- 1/2 teaspoon almond extract
+        \n- 1/4 teaspoon salt
+        \n- 1 cup whole almonds, toasted and roughly chopped
+        \n- 1/2 cup dried cranberries
+        \n\nNotes:
+        \n\n- Toast the whole almonds in a preheated 350°F (175°C) oven for about 8-10 minutes until they are lightly browned and fragrant. Allow them to cool before roughly chopping them.
+        \n- Almond extract is used to give a rich almond flavor to the biscotti. You can adjust the quantity to your preference.
+        \n- Dried cranberries add a tart and sweet contrast to the biscotti. You can use other dried fruits if desired.
+        \n\nInstructions:
+        \n1. Preheat your oven to 350°F (175°C). Line a baking sheet with parchment paper or a silicone baking mat.
+        \n2. In a mixing bowl, beat the softened butter and sugar together until they are well combined and creamy.
+        \n3. Add the eggs and almond extract to the butter and sugar mixture. Beat until smooth.
+        \n4. In a separate bowl, whisk together the flour, baking powder, and salt.
+        \n5. Gradually add the dry ingredients to the wet ingredients and mix until you have a dough.
+        \n6. Fold in the toasted and chopped almonds and dried cranberries into the dough. The dough will be sticky.
+        \n7. Turn the dough out onto a floured surface and divide it in half. Shape each half into a log, roughly 12 inches long and 2 inches wide.
+        \n8. Place the logs on the prepared baking sheet, leaving space between them, as they will spread during baking.
+        \n9. Bake for about 25-30 minutes or until the logs are lightly golden brown and firm to the touch. Remove them from the oven and let them cool for about 15 minutes.
+        \n10. Using a serrated knife, cut the logs into 1/2-inch thick slices at a slight angle.
+        \n11. Lay the slices flat on the baking sheet and bake for an additional 10-15 minutes, turning them over halfway through the baking time. The biscotti should be crisp and dry when done.
+        \n12. Once the biscotti are done, remove them from the oven and allow them to cool completely.\n
+    </string>
+    <string name="recipe_3">
+        \nIngredients:
+        \n\n- 4-6 slices of Italian or French bread (baguette), about 1/2 inch thick
+        \n- 4-5 ripe tomatoes, diced
+        \n- 3-4 cloves of garlic, minced
+        \n- 10-12 fresh basil leaves, chiffonade (thinly sliced)
+        \n- 2-3 tablespoons extra-virgin olive oil
+        \n- Balsamic vinegar (optional)
+        \n- Salt and black pepper to taste
+        \n\nNotes:
+        \n\n- Use good-quality, ripe tomatoes for the best flavor. Roma tomatoes or cherry tomatoes work well.
+        \n- Fresh basil is essential for that classic flavor. You can chiffonade the basil leaves by stacking them, rolling them, and then thinly slicing them into ribbons.
+        \n- If you prefer, you can toast the bread slices in the oven or on a grill instead of a toaster. Brush them with a little olive oil before toasting for extra flavor.
+        \n- You can add a drizzle of balsamic vinegar over the bruschetta for extra depth of flavor. It is optional but recommended.
+        \n\nInstructions:
+        \n\n1. Toast the bread slices until they are golden brown and crisp. You can use a toaster, oven, or grill for this. Once toasted, you can rub the bread with a garlic clove for added flavor.
+        \n2. In a mixing bowl, combine the diced tomatoes, minced garlic, and chiffonade basil leaves.
+        \n3. Drizzle extra-virgin olive oil over the tomato mixture. Start with 2-3 tablespoons and adjust to your taste. Season with salt and black pepper.
+        \n4. Gently mix all the ingredients to combine, ensuring that the tomatoes are well-coated with the oil and the flavors meld together.
+        \n5. Spoon the tomato mixture generously over each toasted bread slice.
+        \n6. Optionally, drizzle a little balsamic vinegar over the top for added depth of flavor.
+        \n7. Serve the bruschetta immediately while the bread is still warm and the tomato mixture is fresh.\n
+    </string>
+    <string name="recipe_4">
+        \nIngredients:
+        \n\n- 2 tablespoons olive oil
+        \n- 1 small onion, diced
+        \n- 2 cloves garlic, minced
+        \n- 4 cups chicken or vegetable broth
+        \n- 1 cup heavy cream
+        \n- 1 cup milk (whole or 2%)
+        \n- 9 oz (about 2 cups) cheese-filled tortellini
+        \n- 1 cup diced carrots
+        \n- 1 cup diced celery
+        \n- 1 cup diced zucchini
+        \n- 1 cup fresh spinach, chopped
+        \n- 1/2 teaspoon dried thyme
+        \n- Salt and black pepper to taste
+        \n- Grated Parmesan cheese for garnish (optional)
+        \n- Fresh basil or parsley for garnish (optional)
+
+        \n\nNotes:
+        \n\n- You can use fresh or frozen cheese-filled tortellini for this recipe. Adjust the cooking time based on the type of tortellini you use.
+        \n- Feel free to customize the vegetables. You can add peas, bell peppers, or other favorites.
+        \n- Fresh spinach adds a vibrant color to the soup, but you can use kale or Swiss chard as well.
+        \n- For added flavor, consider using low-sodium broth and season the soup to taste.
+        \n\nInstructions:
+        \n1. In a large pot, heat the olive oil over medium heat. Add the diced onion and saute until it becomes translucent, about 2-3 minutes.
+        \n2. Add the minced garlic and saute for an additional 30 seconds until fragrant.
+        \n3. Pour in the chicken or vegetable broth, heavy cream, and milk. Stir to combine.
+        \n4. Add the cheese-filled tortellini and diced carrots. Simmer for about 7-10 minutes or according to the tortellini package instructions. Stir occasionally.
+        \n5. Once the tortellini is nearly done, add the diced celery, diced zucchini, chopped spinach, dried thyme, salt, and black pepper. Simmer for an additional 5-7 minutes, or until the vegetables are tender and the tortellini is fully cooked.
+        \n6. Taste the soup and adjust the seasoning with additional salt and pepper if needed.
+        \n7. Serve the creamy tortellini soup hot, garnished with grated Parmesan cheese and fresh basil or parsley if desired.\n
+    </string>
+    <string name="recipe_5">
+        \nIngredients:
+        \n\nFor the Grilled Vegetables:
+        \n- 2 zucchinis, sliced lengthwise
+        \n- 1 eggplant, sliced into rounds
+        \n- 2 red bell peppers, halved and seeds removed
+        \n- 1 red onion, cut into thick rings
+        \n- 2-3 tablespoons olive oil
+        \n- Salt and black pepper to taste
+
+        \n\nFor the Bechamel Sauce:
+        \n\n- 4 tablespoons unsalted butter
+        \n- 1/4 cup all-purpose flour
+        \n- 3 cups milk
+        \n- 1/4 teaspoon nutmeg (optional)
+        \n- Salt and black pepper to taste
+        \n\nFor the Lasagna:
+        \n\n- 12 lasagna noodles, cooked and drained
+        \n- 2 cups shredded mozzarella cheese
+        \n- 1 cup grated Parmesan cheese
+        \n- Fresh basil leaves for garnish (optional)
+
+        \n\nNotes:
+        \n- You can customize the grilled vegetables based on your preferences. Other vegetables like mushrooms, yellow squash, or asparagus can be included.
+        \n- Nutmeg is optional in the bechamel sauce, but it adds a subtle warmth to the dish.
+        \n- Be sure to season the grilled vegetables well with salt and pepper for the best flavor.
+
+        \n\nInstructions:
+        \n\nGrilling the Vegetables:
+        \n1. Preheat your grill to medium-high heat.
+        \n2. Brush the sliced zucchinis, eggplant rounds, red bell peppers, and red onion rings with olive oil. Season with salt and black pepper.
+        \n3. Grill the vegetables until they are tender and have grill marks. The time may vary, but typically, it takes about 3-5 minutes per side for most vegetables.
+        \n4. Remove the grilled vegetables from the grill and set them aside.
+        \n\nPreparing the Bechamel Sauce:
+        \n5. In a saucepan, melt the butter over medium heat. Once it is melted, add the flour and whisk continuously to make a smooth roux. Cook for a couple of minutes to eliminate the raw flour taste.
+        \n6. Gradually pour in the milk while whisking. Continue whisking until the sauce thickens and comes to a gentle boil. If using nutmeg, add it along with salt and black pepper to taste.
+        \n\nAssembling the Lasagna:
+        \n7. Preheat your oven to 375°F (190°C).
+        \n8. In a baking dish, spread a thin layer of the bechamel sauce.
+        \n9. Place a layer of cooked lasagna noodles over the bechamel sauce.
+        \n10. Add a layer of grilled vegetables on top of the noodles. Sprinkle with mozzarella and Parmesan cheese.
+        \n11. Repeat the layers until all the ingredients are used up, finishing with a layer of cheese on top.
+        \n12. Bake in the preheated oven for about 25-30 minutes, or until the lasagna is hot and bubbling, and the cheese is golden brown.
+        \n13. Let it cool for a few minutes before serving. Garnish with fresh basil leaves if desired.\n
+    </string>
+    <string name="recipe_6">
+        \nIngredients:
+        \n\n- 12 oz (340g) penne or your choice of pasta
+        \n- 1 tablespoon olive oil
+        \n- 1 small onion, finely chopped
+        \n- 2 cloves garlic, minced
+        \n- 1 (14 oz) can of diced tomatoes
+        \n- 1 (14 oz) can of tomato sauce
+        \n- 1 teaspoon dried basil
+        \n- 1 teaspoon dried oregano
+        \n- Salt and black pepper to taste
+        \n- 1 cup plant-based cheese shreds (e.g., vegan mozzarella)
+        \n- Fresh basil leaves for garnish (optional)
+
+        \n\nNotes:
+        \n\n- You can use any type of pasta you prefer, such as penne, rigatoni, or macaroni.
+        \n- Feel free to customize the sauce with your favorite vegan ingredients, such as sauteed mushrooms, spinach, or plant-based meat substitutes.
+        \n- The choice of plant-based cheese shreds can vary. Some brands offer vegan mozzarella, cheddar, or other flavors. You can use your favorite.
+
+        \n\nInstructions:
+        \n\n1. Preheat your oven to 375°F (190°C).
+        \n2. Cook the pasta according to the package instructions until it is al dente. Drain and set aside.
+        \n3. In a large skillet, heat the olive oil over medium heat. Add the finely chopped onion and saute until it becomes translucent, about 3-4 minutes.
+        \n4. Add the minced garlic and cook for an additional 30 seconds until fragrant.
+        \n5. Pour in the diced tomatoes and tomato sauce. Add dried basil, dried oregano, salt, and black pepper. Stir to combine. Simmer the sauce for about 10-15 minutes to allow the flavors to meld.
+        \n6. Add the cooked pasta to the sauce and toss to coat the pasta evenly.
+        \n7. Transfer the pasta and sauce mixture to a baking dish.
+        \n8. Sprinkle the plant-based cheese shreds over the top to create a cheesy layer.
+        \n9. Bake in the preheated oven for about 15-20 minutes, or until the cheese is melted and bubbly, and the top is slightly browned.
+        \n10. Let the baked pasta cool for a few minutes before serving.
+        \n11. Garnish with fresh basil leaves if desired.\n
+
+    </string>
+    <string name="recipe_7">
+        \nIngredients:
+        \n\n- 1 cup (2 sticks) vegan butter, softened
+        \n- 1/2 cup powdered sugar
+        \n- 2 cups all-purpose flour
+        \n- 1 teaspoon vanilla extract
+        \n- 1/4 cup finely chopped hazelnuts (optional)
+        \n- Pinch of salt
+
+        \n\nNotes:
+        \n\n- Ensure the vegan butter you use is suitable for baking. Many plant-based butter alternatives work well in cookie recipes.
+        \n- You can customize the cookies by adding finely chopped hazelnuts, which is a traditional option. If you have a nut allergy, you can omit them.
+        \n- Use high-quality pure vanilla extract for the best flavor.
+
+        \n\nInstructions:
+        \n\n1. Preheat your oven to 325°F (163°C). Line a baking sheet with parchment paper.
+        \n2. In a mixing bowl, beat the softened vegan butter and powdered sugar together until the mixture is creamy and well combined.
+        \n3. Add the vanilla extract and a pinch of salt to the mixture. Mix until the vanilla is evenly distributed.
+        \n4. Gradually add the all-purpose flour to the wet ingredients and mix until a smooth cookie dough forms. If you are adding chopped hazelnuts, fold them into the dough at this stage.
+        \n5. Shape the cookie dough into small balls, about 1 inch in diameter. You can use your hands or a cookie scoop for consistency.
+        \n6. Place the cookie balls on the prepared baking sheet, spacing them about 1 inch apart.
+        \n7. Bake in the preheated oven for about 12-15 minutes or until the cookies are set and the bottoms are lightly golden.
+        \n8. Remove the cookies from the oven and allow them to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.\n
+
+    </string>
+    <string name="recipe_8">
+        \nIngredients:
+        \n\n- 2 cups plant-based milk (e.g., almond milk, soy milk, oat milk)
+        \n- 2.5 oz (70g) vegan dark chocolate (70-80% cocoa), finely chopped
+        \n- 2 tablespoons cocoa powder
+        \n- 2 tablespoons granulated sugar (adjust to taste)
+        \n- 2 tablespoons cornstarch
+        \n- 1/2 teaspoon vanilla extract
+        \n- A pinch of salt
+        \n- Vegan whipped cream (optional, for garnish)
+        \n- Vegan chocolate shavings (optional, for garnish)
+
+        \n\nNotes:
+        \n\n- Use high-quality vegan dark chocolate for the best flavor. Make sure it is dairy-free.
+        \n- The level of sweetness can be adjusted according to your preference. You can add more or less sugar to taste.
+        \n- Cornstarch is used to thicken the hot chocolate. You can also use arrowroot powder or tapioca starch as alternatives.
+
+        \n\nInstructions:
+        \n\n1. In a small bowl, mix the cocoa powder, sugar, and cornstarch together. This mixture will help thicken the hot chocolate.
+        \n2. In a saucepan, heat the plant-based milk over medium heat until it is hot but not boiling.
+        \n3. Add the finely chopped vegan dark chocolate to the hot milk. Whisk until the chocolate is completely melted and well combined with the milk.
+        \n4. Slowly whisk in the cocoa powder, sugar, and cornstarch mixture. Continue whisking to prevent lumps from forming.
+        \n5. Keep whisking the mixture over medium heat until it thickens. This can take 5-7 minutes.
+        \n6. Once the hot chocolate has thickened to your desired consistency, remove it from the heat and stir in the vanilla extract and a pinch of salt.
+        \n7. Pour the vegan Italian hot chocolate into mugs.
+        \n8. If desired, top each mug with vegan whipped cream and vegan chocolate shavings for an extra touch of indulgence.\n
+
+    </string>
+    <string name="recipe_9">
+        \nIngredients:
+        \n\n- 1 package (9 oz) of vegan ravioli
+        \n- 1 can (14 oz) of full-fat coconut milk
+        \n- 1-2 stalks of lemongrass, cut into 2-inch pieces and smashed
+        \n- 1 red bell pepper, thinly sliced
+        \n- 1 small onion, thinly sliced
+        \n- 2 cloves garlic, minced
+        \n- 1 tablespoon fresh ginger, grated
+        \n- 1-2 tablespoons red curry paste (adjust to taste)
+        \n- 1 tablespoon soy sauce
+        \n- 1-2 teaspoons brown sugar (adjust to taste)
+        \n- 1-2 tablespoons lime juice (adjust to taste)
+        \n- Fresh cilantro leaves for garnish
+        \n- Lime wedges for serving (optional)
+
+        \n\nNotes:
+        \n\n- Use any type of vegan ravioli you prefer. Spinach and ricotta filled ravioli work well, but you can choose other flavors too.
+        \n- Lemongrass can be found in the herb or international section of your grocery store. Smash it with a rolling pin to release the flavor before using.
+        \n- The amount of red curry paste, brown sugar, and lime juice can be adjusted to suit your spice and flavor preferences.
+
+        \n\nInstructions:
+        \n\n1. Cook the vegan ravioli according to the package instructions until they are al dente. Drain and set aside.
+        \n2. In a large skillet or pan, heat a bit of oil over medium heat. Add the thinly sliced red bell pepper and onion. Saute until they become tender,
+        about 3-4 minutes.
+        \n3. Add the minced garlic and grated ginger to the skillet. Saute for an additional 30 seconds until fragrant.
+        \n4. Stir in the red curry paste, lemongrass stalks, and smashed lemongrass. Saute for another minute to release the flavors of the curry paste and lemongrass.
+        \n5. Pour in the can of coconut milk, soy sauce, and brown sugar. Stir to combine and bring the mixture to a simmer.
+        \n6. Allow the coconut milk mixture to simmer for about 5-7 minutes to develop the flavors and thicken slightly.
+        \n7. Remove the lemongrass stalks from the sauce.
+        \n8. Stir in the lime juice and adjust it to taste. If desired, you can also adjust the spiciness, sweetness, or saltiness to suit your preferences.
+        \n9. Add the cooked vegan ravioli to the skillet and gently toss them in the sauce until they are well coated.
+        \n10. Serve the ravioli in coconut milk and lemongrass sauce, garnished with fresh cilantro leaves. Optionally, serve with lime wedges for extra zesty flavor.\n
+
+    </string>
+    <string name="recipe_10">
+        \nIngredients:
+        \n\n- 8 oz (about 227g) spaghetti (use whole wheat or gluten-free spaghetti if desired)
+        \n- 2 tablespoons olive oil
+        \n- 1 small onion, finely chopped
+        \n- 2 cloves garlic, minced
+        \n- 1 (14 oz) can of diced tomatoes
+        \n- 1 (14 oz) can of tomato sauce
+        \n- 1 teaspoon dried basil
+        \n- 1 teaspoon dried oregano
+        \n- Salt and black pepper to taste
+        \n- Red pepper flakes (optional, for heat)
+        \n- Fresh basil or parsley for garnish (optional)
+
+        \n\nNotes:
+        \n\n- You can use any type of vegan spaghetti, including whole wheat or gluten-free options.
+        \n- Feel free to customize your sauce by adding sauteed mushrooms, bell peppers, or other vegetables.
+        \n- Red pepper flakes are optional and can be added for a spicy kick.
+
+        \n\nInstructions:
+        \n\n1. Cook the spaghetti according to the package instructions until it is al dente. Drain and set aside.
+        \n2. In a large skillet, heat the olive oil over medium heat. Add the finely chopped onion and saute until it becomes translucent, about 3-4 minutes.
+        \n3. Add the minced garlic and saute for an additional 30 seconds until fragrant.
+        \n4. Pour in the diced tomatoes and tomato sauce. Add dried basil, dried oregano, salt, black pepper, and red pepper flakes (if desired). Stir to combine.
+        Simmer the sauce for about 10-15 minutes to allow the flavors to meld.
+        \n5. Taste the sauce and adjust the seasoning with additional salt, black pepper, or red pepper flakes if needed.
+        \n6. Serve the vegan spaghetti by placing a portion of cooked spaghetti on each plate and topping it with the tomato sauce.
+        \n7. Garnish with fresh basil or parsley leaves if desired.\n
+
+    </string>
+    <string name="recipe_11">
+        \nIngredients:
+        \n\nFor the Carrot Halwa:
+        \n- 2 cups grated carrots
+        \n- 2 cups full-fat milk
+        \n- 1/2 cup sugar (adjust to taste)
+        \n- 1/4 cup ghee (clarified butter) or vegan butter for a vegan version
+        \n- 1/4 cup chopped nuts (e.g., almonds, cashews)
+        \n- 1/2 teaspoon cardamom powder
+        \n- A pinch of saffron strands soaked in warm milk (optional)
+
+        \nFor the Custard:
+        \n- 2 cups full-fat milk
+        \n- 2 tablespoons custard powder (vanilla or butterscotch flavored)
+        \n- 1/4 cup sugar (adjust to taste)
+        \n- A few drops of vanilla extract (if using plain custard powder)
+
+        \nFor the Cake Layer:
+        \n- 1 cup of sponge cake, cubed (store-bought or homemade)
+
+        \n\nNotes:
+        \n\n- Use full-fat milk for a richer and creamier carrot halwa.
+        \n- Ghee is traditionally used in carrot halwa, but you can use vegan butter for a dairy-free version.
+        \n- Customize the trifle with your favorite nuts such as almonds, cashews, or pistachios.
+        \n- Choose a flavored custard powder for an extra layer of flavor, such as vanilla or butterscotch.
+
+        \n\nInstructions:
+        \n\nPreparing the Carrot Halwa:
+        \n1. In a heavy-bottomed pan, heat ghee (or vegan butter) over medium heat. Add the grated carrots and sauté for about 5-7 minutes until they soften and release their aroma.
+        \n2. Add the milk to the carrots and let it simmer over low heat. Stir occasionally until the milk reduces, and the carrots are cooked and softened.
+        \n3. Once the milk is mostly absorbed, add sugar and continue to cook until the mixture thickens and becomes a halwa-like consistency.
+        \n4. Add cardamom powder, saffron strands (if using), and chopped nuts. Mix well and set the carrot halwa aside to cool.
+
+        \n\nPreparing the Custard:
+        \n\n5. In a separate saucepan, mix the custard powder with a little milk to form a smooth paste. Ensure there are no lumps.
+        \n6. Heat the remaining milk in the saucepan, and as it comes to a simmer, pour the custard paste into the milk.
+        \n7. Add sugar and vanilla extract (if using plain custard powder) and whisk continuously until the custard thickens. Remove from heat and let it cool.
+
+        \n\nAssembling the Trifle:
+        \n\n8. In serving glasses or a trifle dish, start with a layer of cake cubes at the bottom.
+        \n9. Add a layer of carrot halwa over the cake.
+        \n10. Pour the custard over the carrot halwa to form the next layer.
+        \n11. Continue layering cake, carrot halwa, and custard until you reach the top of the glass or dish.
+        \n12. Finish with a dollop of custard on top and garnish with chopped nuts or saffron strands.
+        \n13. Refrigerate the carrot halwa trifle for a few hours to chill and set.\n
+
+    </string>
+    <string name="recipe_12">
+        \nIngredients:
+        \n\nFor the Aloo Tikki (Potato Patties):
+        \n- 4 large potatoes, boiled, peeled, and mashed
+        \n- 1/2 cup bread crumbs
+        \n- 1/2 cup green peas, boiled and mashed
+        \n- 1 small onion, finely chopped
+        \n- 2 green chilies, finely chopped (adjust to taste)
+        \n- 1 teaspoon ginger-garlic paste
+        \n- 1 teaspoon red chili powder
+        \n- 1/2 teaspoon garam masala
+        \n- 1/2 teaspoon cumin powder
+        \n- Salt to taste
+        \n- Oil for shallow frying
+
+        \n\nFor the Chole (Chickpea Curry):
+        \n- 2 cups cooked chickpeas (canned or cooked from dry)
+        \n- 1 onion, finely chopped
+        \n- 2 tomatoes, pureed
+        \n- 1 teaspoon ginger-garlic paste
+        \n- 1/2 teaspoon cumin seeds
+        \n- 1 teaspoon ground coriander
+        \n- 1 teaspoon ground cumin
+        \n- 1/2 teaspoon turmeric powder
+        \n- 1 teaspoon red chili powder
+        \n- 1 teaspoon garam masala
+        \n- Salt to taste
+        \n- Fresh cilantro leaves for garnish
+
+        \n\nNotes:
+        \n\n- Adjust the spiciness of the Aloo Tikki and Chole by adding or reducing the amount of green chilies and red chili powder according to your preference.
+        \n- You can use canned chickpeas or cook them from dry chickpeas. If using canned, drain and rinse them.
+
+        \n\nInstructions:
+        \n\nPreparing the Aloo Tikki (Potato Patties):
+        \n1. In a large mixing bowl, combine the mashed potatoes, bread crumbs, mashed green peas, chopped onion, green chilies, ginger-garlic paste, red chili powder, garam masala, cumin powder, and salt.
+        \n2. Mix the ingredients well to form a uniform mixture.
+        \n3. Divide the mixture into equal portions and shape them into round patties or tikkis.
+        \n4. Heat some oil in a skillet or griddle over medium heat. Shallow fry the potato patties until they are golden brown and crisp on both sides.
+        \n5. Remove the patties from the skillet and drain them on paper towels to remove excess oil.
+        \n\nPreparing the Chole (Chickpea Curry):
+        \n6. In a separate pan, heat some oil and add cumin seeds. Allow them to splutter.
+        \n7. Add the chopped onion and saute until it becomes translucent.
+        \n8. Add the ginger-garlic paste and saute for a minute until the raw smell disappears.
+        \n9. Stir in the tomato puree, ground coriander, ground cumin, turmeric powder, red chili powder, and salt. Cook until the oil starts to separate from the mixture.
+        \n10. Add the cooked chickpeas and garam masala. Mix well and cook for a few more minutes.
+        \n11. If the mixture appears too thick, you can add a little water to achieve the desired curry consistency.
+        \n\nAssembling the Dish:
+        \n12. To serve, place a couple of Aloo Tikkis on a plate and pour a generous amount of the Chole (Chickpea Curry) over them.
+        \n13. Garnish with fresh cilantro leaves.\n
+
+    </string>
+    <string name="recipe_13">
+        \nIngredients:
+        \n\nFor the Chole (Chickpea Curry):
+        \n- 2 cups cooked chickpeas (canned or cooked from dry)
+        \n- 1 onion, finely chopped
+        \n- 2 tomatoes, pureed
+        \n- 1 teaspoon ginger-garlic paste
+        \n- 1/2 teaspoon cumin seeds
+        \n- 1 teaspoon ground coriander
+        \n- 1 teaspoon ground cumin
+        \n- 1/2 teaspoon turmeric powder
+        \n- 1 teaspoon red chili powder (adjust to taste)
+        \n- 1 teaspoon garam masala
+        \n- Salt to taste
+        \n- Oil for cooking
+
+        \n\nFor the Bhature (Fried Bread):
+        \n- 2 cups all-purpose flour (maida)
+        \n- 1/2 cup plain yogurt
+        \n- 1/2 teaspoon baking powder
+        \n- 1/4 teaspoon baking soda
+        \n- 1/2 teaspoon sugar
+        \n- Salt to taste
+        \n- Water (as needed)
+        \n- Oil for deep frying
+
+        \n\nNotes:
+        \n- You can use canned chickpeas or cook them from dry chickpeas. If using canned, drain and rinse them.
+        \n- Adjust the spiciness of the Chole and the size of Bhature by adding or reducing the amount of red chili powder and the thickness of the Bhature.
+
+        \n\nInstructions:**
+        \n\nPreparing the Chole (Chickpea Curry):
+        \n1. In a pan, heat some oil and add cumin seeds. Let them splutter.
+        \n2. Add the chopped onion and saute until it becomes translucent.
+        \n3. Stir in the ginger-garlic paste and saute for a minute until the raw smell disappears.
+        \n4. Add the tomato puree, ground coriander, ground cumin, turmeric powder, red chili powder, and salt. Cook until the oil starts to separate from the mixture.
+        \n5. Add the cooked chickpeas and garam masala. Mix well and cook for a few more minutes.
+        \n6. If the mixture appears too thick, you can add some water to achieve the desired curry consistency.
+        \n\nPreparing the Bhature (Fried Bread):
+        \n7. In a mixing bowl, combine the all-purpose flour, baking powder, baking soda, sugar, salt, and yogurt.
+        \n8. Add water as needed to form a soft and smooth dough. Knead the dough well, cover it with a damp cloth, and let it rest for 2-3 hours.
+        \n9. Heat the oil for deep frying in a large pan or deep fryer over medium heat.
+        \n10. Divide the dough into small portions and roll them into balls. Roll out each ball into a flat disc, similar to a poori but larger in size.
+        \n11. Deep fry the Bhature in hot oil until they puff up and turn golden brown. Make sure to press them gently with a slotted spoon while frying to help them puff.
+        \n12. Remove the Bhature from the oil and drain them on paper towels to remove excess oil.
+        \n\nServing the Dish:
+        \n13. Serve the Chole (Chickpea Curry) hot with the freshly fried Bhature.\n
+
+    </string>
+    <string name="recipe_14">
+        \nIngredients:
+        \n\n- 1 cup whole black gram (urad dal)
+        \n- 1/4 cup kidney beans (rajma)
+        \n- 1 onion, finely chopped
+        \n- 2 tomatoes, finely chopped
+        \n- 1/2 cup cream or full-fat milk
+        \n- 2-3 cloves garlic, minced
+        \n- 1-inch piece of ginger, minced
+        \n- 2 green chilies, slit
+        \n- 1/2 teaspoon cumin seeds
+        \n- 1/2 teaspoon turmeric powder
+        \n- 1 teaspoon red chili powder (adjust to taste)
+        \n- 1 teaspoon garam masala
+        \n- Salt to taste
+        \n- 3 tablespoons butter or ghee for authenticity, or oil for a vegan version
+        \n- Fresh coriander leaves for garnish
+
+        \n\nNotes:
+        \n\n- Whole black gram and kidney beans need to be soaked in water for at least 8 hours or overnight before cooking.
+        \n- You can adjust the cream or milk quantity based on your preference for richness.
+        \n- The level of spiciness can be tailored to your liking by increasing or decreasing the amount of red chili powder and green chilies.
+
+        \n\nInstructions:
+        \n\n1. Rinse the soaked urad dal and kidney beans, and then pressure cook them with enough water until they are soft and well-cooked.
+        It usually takes about 30-40 minutes.
+        \n2. In a separate pan, heat the butter or ghee (or oil for a vegan version) over medium heat. Add cumin seeds and let them splutter.
+        \n3. Add the minced garlic and ginger and saute for a minute until fragrant.
+        \n4. Add the finely chopped onions and saute until they become translucent and light brown.
+        \n5. Add the chopped tomatoes and cook until they turn soft and mushy.
+        \n6. Stir in the turmeric powder, red chili powder, and salt. Cook until the oil starts to separate from the tomato-onion mixture.
+        \n7. Add the cooked urad dal and kidney beans to the pan. Mix well and simmer for about 20-30 minutes. You can add water to adjust the consistency if needed.
+        \n8. Add the cream or milk and simmer for another 10-15 minutes, stirring occasionally.
+        \n9. Adjust the seasoning by adding garam masala and more salt or red chili powder if necessary.
+        \n10. Garnish with fresh coriander leaves.\n
+
+    </string>
+    <string name="recipe_15">
+        \nIngredients:
+        \n\nFor the Dosa Batter:
+        \n- 1 cup parboiled rice (Idli rice or any short-grain rice)
+        \n- 1/2 cup raw rice (Sona Masuri or any other variety)
+        \n- 1/2 cup urad dal (black gram)
+        \n- 1/4 teaspoon fenugreek seeds (methi seeds)
+        \n- Water for soaking
+        \n- Salt to taste
+
+        \n\nFor Making Dosa:
+        \n- Vegetable oil or ghee for greasing the griddle
+
+        \n\nNotes:
+        \n\n- Parboiled rice is preferred for dosa batter as it helps achieve a crispy texture.
+        \n- Urad dal and fenugreek seeds are essential for fermentation. They add a unique flavor and help in the dosa texture.
+        \n- The proportion of rice and urad dal can be adjusted based on your preference for dosa texture.
+        Some like it more crispy (use more rice), while others prefer it softer (use more urad dal).
+
+        \n\nInstructions:
+        \n\nPreparing the Dosa Batter:
+        \n1. Wash the parboiled rice, raw rice, urad dal, and fenugreek seeds separately. Rinse them thoroughly until the water runs clear.
+        \n2. Soak the rice, urad dal, and fenugreek seeds in separate bowls with enough water. Let them soak for at least 4-6 hours or overnight.
+        \n3. After soaking, drain the water from each of them and set it aside.
+        \n4. Grind the urad dal and fenugreek seeds together into a smooth, thick batter using as little water as possible.
+        \n5. Grind the rice in batches, adding water as needed, until you get a smooth batter. The rice batter should be slightly coarse compared to the urad dal batter.
+        \n6. Mix the urad dal batter and rice batter together in a large bowl. Add salt to taste.
+        \n7. Cover the bowl with a clean cloth and let it ferment for 8-12 hours or until it doubles in volume.
+        The time required for fermentation may vary depending on the climate and temperature.
+        \n\nMaking Dosa:
+        \n8. Once the batter is fermented, it will be slightly sour in taste.
+        \n9. Heat a non-stick or cast-iron griddle (tava) over medium-high heat.
+        \n10. Grease the griddle lightly with oil or ghee using a paper towel or a piece of cloth.
+        \n11. Pour a ladleful of the dosa batter in the center of the griddle.
+        \n12. Quickly spread the batter in a circular motion to form a thin, even layer. Dosa should be thin and crispy, so do not make it too thick.
+        \n13. Drizzle a little oil or ghee around the edges of the dosa and on the top.
+        \n14. Cook until the dosa becomes golden brown and crispy, usually for 2-3 minutes on one side. You do not need to flip it.
+        \n15. Once the dosa is cooked, use a spatula to gently lift it off the griddle.
+        \n16. Serve hot with coconut chutney, sambar, or your favorite dosa accompaniment.\n
+
+    </string>
+    <string name="recipe_16">
+        \nIngredients:
+        \n\nFor the Gulab Jamun Balls:
+        \n- 1 cup milk powder
+        \n- 1/4 cup all-purpose flour (maida)
+        \n- 1/4 teaspoon baking soda
+        \n- 2-3 tablespoons ghee (clarified butter)
+        \n- A few tablespoons milk (as needed to make a soft dough)
+        \n- Oil or ghee for deep frying
+        \n\nFor the Sugar Syrup:
+        \n- 1 cup sugar
+        \n- 1 cup water
+        \n- 1/2 teaspoon cardamom powder
+        \n- A few saffron strands (optional)
+
+        \n\nNotes:
+        \n\n- Use good quality milk powder for the best results.
+        \n- Ghee is traditionally used for making the dough, but you can use oil for a dairy-free version.
+        \n- You can customize the sweetness and flavor of the sugar syrup by adding rose water or a few drops of lemon juice.
+
+        \n\nInstructions:
+        \n\nPreparing the Sugar Syrup:
+        \n1. In a saucepan, combine sugar and water. Bring it to a boil, stirring occasionally to dissolve the sugar.
+        \n2. Once it reaches a boil, let it simmer for about 5-7 minutes to form a slightly sticky one-string consistency syrup.
+        You can test this by taking a drop of syrup between your thumb and forefinger and pulling them apart, a single string should form.
+        \n3. Add cardamom powder and saffron strands (if using) to the syrup. Remove it from the heat and set aside.
+        \n\nMaking the Gulab Jamun Balls:
+        \n4. In a mixing bowl, combine milk powder, all-purpose flour, and baking soda. Mix well.
+        \n5. Add ghee and mix it into the dry ingredients until the mixture resembles breadcrumbs.
+        \n6. Gradually add a few tablespoons of milk to the mixture to form a soft, pliable dough. The dough should be smooth and without any cracks.
+        \n7. Divide the dough into small, equal-sized portions and roll them into smooth balls. Make sure there are no cracks on the surface of the balls.
+        \n\nFrying the Gulab Jamun:
+        \n8. Heat the oil or ghee for deep frying in a pan or kadai over medium-low heat. The oil should not be too hot; it should be at a medium temperature.
+        \n9. Carefully slide a few Gulab Jamun balls into the hot oil using a slotted spoon.
+        \n10. Fry them on low to medium heat, constantly turning and rotating them, until they become golden brown all over.
+        This should take about 7-10 minutes. The slower frying ensures that the Gulab Jamun cook evenly and do not remain doughy in the center.
+        \n11. Once the Gulab Jamun turn a uniform golden brown, remove them from the oil and drain them on paper towels to remove excess oil.
+        \n\nSoaking in Sugar Syrup:
+        \n12. While the Gulab Jamun are still warm, place them in the prepared sugar syrup.
+        \n13. Let them soak in the sugar syrup for at least 2-3 hours, or overnight for best results. The Gulab Jamun will absorb the syrup and become soft and spongy.\n
+
+    </string>
+    <string name="recipe_17">
+        \nIngredients:
+        \n\nFor the Outer Dough:
+        \n- 2 cups all-purpose flour (maida)
+        \n- 3 tablespoons oil or ghee
+        \n- A pinch of salt
+        \n- Water for kneading
+        \n\nFor the Filling:
+        \n- 1 cup yellow moong dal (split and skinned mung beans)
+        \n- 1 teaspoon cumin seeds
+        \n- 1/2 teaspoon fennel seeds
+        \n- 1/2 teaspoon red chili powder (adjust to taste)
+        \n- 1/2 teaspoon garam masala
+        \n- 1/4 teaspoon asafoetida (hing)
+        \n- Salt to taste
+        \n- Oil for deep frying
+
+        \n\nNotes:
+        \n\n- You can use ghee or oil for making the dough. Ghee provides a richer flavor.
+        \n- The choice of spices in the filling can be adjusted to your preference. You can add other spices like coriander powder or amchur (dry mango powder) for extra flavor.
+        \n- Make sure the filling is completely dry and devoid of any moisture, as a wet filling can lead to burst kachoris while frying.
+
+        \n\nInstructions:
+        \n\nPreparing the Outer Dough:
+        \n1. In a mixing bowl, combine the all-purpose flour, a pinch of salt, and oil or ghee.
+        \n2. Mix the ingredients well until the flour resembles breadcrumbs.
+        \n3. Gradually add water in small quantities and knead the mixture into a smooth and firm dough. The dough should not be too soft or too stiff.
+        \n4. Cover the dough with a clean cloth and let it rest for 20-30 minutes.
+        \n\nPreparing the Filling:
+        \n5. Wash the moong dal thoroughly and soak it in water for 2-3 hours.
+        \n6. Drain the soaked dal and grind it into a coarse paste without adding any water. The paste should be dry.
+        \n7. Heat some oil in a pan and add cumin seeds and fennel seeds. Saute for a minute until they release their aroma.
+        \n8. Add the ground moong dal paste and cook it on low to medium heat. Stir constantly until the paste turns golden brown and loses its raw smell. This can take about 20-25 minutes.
+        \n9. Remove the pan from the heat and add red chili powder, garam masala, asafoetida, and salt. Mix well and let the filling cool completely.
+        \n\nShaping and Frying the Kachori:
+        \n10. Divide the dough into small, equal-sized balls. Roll each ball into a smooth ball between your palms.
+        \n11. Take one dough ball and flatten it with your fingers to form a small disc.
+        \n12. Place a spoonful of the moong dal filling in the center of the disc.
+        \n13. Gather the edges of the disc to enclose the filling and form a stuffed ball.
+        \n14. Gently flatten the stuffed ball with your fingers to form a small disc (kachori).
+        \n15. Heat oil in a deep pan or kadai over medium heat for frying. The oil should be moderately hot but not too hot.
+        \n16. Carefully slide a few kachoris into the hot oil.
+        \n17. Fry the kachoris on low to medium heat until they puff up and become golden brown. Fry them slowly to ensure they are cooked evenly and do not remain raw in the center.
+        \n18. Remove the fried kachoris with a slotted spoon and drain them on paper towels to remove excess oil.\n
+
+    </string>
+    <string name="recipe_18">
+        \nIngredients:
+        \n\n- 2 cups full-fat milk
+        \n- 1/2 cup condensed milk
+        \n- 1/4 cup powdered sugar (adjust to taste)
+        \n- A pinch of saffron strands (kesar)
+        \n- 2 tablespoons warm milk
+        \n- 1/4 cup pistachios, coarsely ground
+        \n- 1/2 teaspoon cardamom powder
+        \n- A few whole pistachios for garnish
+
+        \n\nNotes:
+        \n\n- Use full-fat milk for a creamy and rich kulfi.
+        \n- Adjust the sweetness by adding more or less powdered sugar according to your taste.
+        \n- You can also customize the kulfi by adding other nuts or flavors like almonds, cashews, or rose essence.
+
+        \n\nInstructions:
+        \n\nPreparing the Saffron Infusion:
+        \n1. In a small bowl, take a pinch of saffron strands and add 2 tablespoons of warm milk. Let it sit for about 10-15 minutes to infuse the saffron flavor and color.
+        \n\nMaking the Kulfi Base:
+        \n2. In a heavy-bottomed pan, pour the 2 cups of full-fat milk and bring it to a boil over medium heat.
+        Stir occasionally to prevent it from sticking to the bottom of the pan.
+        \n3. Once the milk comes to a boil, reduce the heat to low and let it simmer for about 30-40 minutes.
+        Stir occasionally to avoid forming a layer of cream on the surface.
+        \n4. When the milk reduces to about half its original volume and thickens to a custard-like consistency, it is ready.
+        Remove it from the heat and let it cool to room temperature.
+        \n5. Once the milk is cool, add condensed milk and powdered sugar. Mix well to combine.
+        \n6. Add the saffron-infused milk and cardamom powder to the mixture and stir.
+        \n\nAdding Pistachios:
+        \n7. Mix in the coarsely ground pistachios. You can reserve some for garnish if desired.
+        \n\nFreezing the Kulfi:
+        \n8. Pour the prepared kulfi mixture into kulfi molds, small glasses, or popsicle molds.
+        \n9. Garnish with a few whole pistachios on top.
+        \n10. Cover the molds with aluminum foil or popsicle sticks and freeze for at least 6-8 hours or overnight until the kulfi is completely set.
+        \n\nServing:
+        \n11. To serve, dip the kulfi molds or glasses briefly in warm water to help release the kulfi. If using popsicle molds, simply remove the popsicles from the molds.
+        \n12. Serve your homemade Kesar Pista Kulfi chilled. Enjoy this delightful Indian dessert!\n
+    </string>
+    <string name="recipe_19">
+        \nIngredients:
+        \n\n- 2 cups all-purpose flour (maida)
+        \n- 1/2 teaspoon baking powder
+        \n- 1/4 teaspoon baking soda
+        \n- 1/4 teaspoon salt
+        \n- 1/4 cup yogurt
+        \n- 1 teaspoon sugar
+        \n- 2 tablespoons oil or ghee
+        \n- 3/4 cup warm water (approximately)
+        \n- Butter or ghee for brushing (optional)
+        \n- Fresh cilantro leaves (coriander) for garnish (optional)
+
+        \n\nNotes:
+        \n\n- You can use ghee for a richer and more authentic flavor, but oil works well too.
+        \n- The baking powder and baking soda help give the naan its characteristic softness.
+        \n- The thickness of the naan can be adjusted based on your preference. Roll it thinner for a crisper naan or thicker for a softer one.
+
+        \n\nInstructions:
+        \n\nPreparing the Naan Dough:
+        \n1. In a mixing bowl, combine the all-purpose flour, baking powder, baking soda, and salt. Mix well.
+        \n2. Add yogurt, sugar, and oil (or ghee) to the dry ingredients. Mix until they are well combined.
+        \n3. Gradually add warm water while kneading the dough. The amount of water you need may vary, so add it slowly until you have a soft, smooth, and non-sticky dough.
+        \n4. Cover the dough with a damp cloth and let it rest for about 2-3 hours. This resting time helps develop the flavor and texture of the naan.
+        \n\nCooking the Naan:
+        \n5. Preheat a stovetop skillet (tava) over medium-high heat or an oven to its highest setting (usually around 500°F or 260°C).
+        \n6. While the skillet or oven is heating, divide the dough into equal-sized portions and roll them into balls. You can make them about the size of a golf ball.
+        \n7. Take one dough ball and roll it out into an oval or round shape using a rolling pin. Roll it to your desired thickness; typically, it is about 1/4 inch thick.
+        \n8. Once the skillet is hot, place the rolled naan on it. Cook it for about 1-2 minutes on one side or until you see bubbles and it puffs up.
+        \n9. Flip the naan using tongs or a spatula and cook for an additional 1-2 minutes on the other side.
+        If you are using an oven,you can place the rolled naan on a hot baking sheet or pizza stone and bake for about 3-4 minutes until it puffs up and turns lightly brown.
+        \n10. If desired, brush the cooked naan with melted butter or ghee and garnish with fresh cilantro leaves.
+        \n11. Serve the naan hot with your favorite curries, chutneys, or dips.\n
+    </string>
+    <string name="recipe_20">
+        \nIngredients:
+        \n\nFor the Bhaji (Spicy Vegetable Curry):
+        \n- 2 cups mixed vegetables (such as potatoes, cauliflower, peas, carrots, and bell peppers), chopped
+        \n- 1 large onion, finely chopped
+        \n- 2 large tomatoes, finely chopped
+        \n- 1/2 cup bell peppers (capsicum), finely chopped
+        \n- 1/2 cup green peas
+        \n- 1/4 cup carrots, finely chopped
+        \n- 4 cloves garlic, minced
+        \n- 1-inch piece of ginger, minced
+        \n- 2-3 green chilies, finely chopped (adjust to taste)
+        \n- 2 tablespoons pav bhaji masala
+        \n- 1 teaspoon red chili powder (adjust to taste)
+        \n- 1/2 teaspoon turmeric powder
+        \n- 1/2 teaspoon cumin seeds
+        \n- Salt to taste
+        \n- 2-3 tablespoons butter or oil
+        \n- Fresh cilantro leaves for garnish
+        \n- Lemon wedges for serving
+        \n\nFor the Pav (Rolls):
+        \n- 8-10 pav (dinner rolls)
+        \n- Butter for toasting
+
+        \n\nNotes:
+        \n\n- You can use any combination of vegetables you prefer. Potatoes are a must for the creamy texture of the bhaji.
+        \n- Adjust the spiciness by adding or reducing the amount of green chilies and red chili powder according to your taste.
+        \n- Pav Bhaji masala is a blend of spices used specifically for this dish.
+        You can find it in Indian grocery stores,or you can make your own by mixing various ground spices like coriander, cumin, and fennel.
+
+        \n\nInstructions:
+        \n\nPreparing the Bhaji (Spicy Vegetable Curry):
+        \n1. Boil the mixed vegetables until they are soft and tender. Drain any excess water and mash the boiled vegetables coarsely. Set them aside.
+        \n2. In a large pan or kadai, heat the butter or oil over medium heat.
+        \n3. Add cumin seeds and let them splutter.
+        \n4. Add minced garlic, ginger, and green chilies. Saute for a minute until they release their aroma.
+        \n5. Add the chopped onions and saute until they become translucent and light brown.
+        \n6. Stir in the chopped tomatoes, bell peppers, and green peas. Cook until the tomatoes turn soft and mushy.
+        \n7. Add the pav bhaji masala, red chili powder, turmeric powder, and salt. Mix well and cook for a few minutes until the oil starts to separate from the mixture.
+        \n8. Add the mashed vegetables to the pan and mix them with the spice mixture.
+        \n9. Simmer the bhaji on low heat, occasionally mashing and stirring it. Add water as needed to achieve your desired consistency.
+        \n\nPreparing the Pav (Rolls):
+        \n10. Slice the pav (dinner rolls) horizontally, but do not separate them entirely.
+        \n11. Heat a griddle or pan over medium heat and add a little butter. Place the sliced pav on the griddle and toast them until they turn lightly golden and crispy.
+        \n\nServing:
+        \n12. Serve the hot and spicy bhaji with the toasted pav.
+        \n13. Garnish with fresh cilantro leaves and serve with lemon wedges.\n
+
+    </string>
+    <string name="recipe_21">
+        \nIngredients:
+        \n\n- 2 cups thick poha (flattened rice)
+        \n- 2 tablespoons vegetable oil
+        \n- 1 teaspoon mustard seeds
+        \n- 1/2 teaspoon cumin seeds
+        \n- 1/4 cup raw peanuts
+        \n- 1 medium-sized onion, finely chopped
+        \n- 2-3 green chilies, finely chopped (adjust to taste)
+        \n- 1/4 teaspoon turmeric powder
+        \n- 10-12 curry leaves
+        \n- Salt to taste
+        \n- 1 tablespoon lemon juice (optional)
+        \n- Fresh cilantro leaves for garnish
+        \n- Grated coconut for garnish (optional)
+
+        \n\nNotes:
+        \n\n- Use thick poha for the best texture. Thin poha can become mushy when cooked.
+        \n- Customize the spiciness by adding more or fewer green chilies.
+        \n- You can add other ingredients like peas, carrots, or diced potatoes to make it more nutritious.
+
+        \n\nInstructions:
+        \n\nPrepping the Poha:
+        \n1. Rinse the poha in a colander under running water. Be gentle while rinsing to avoid breaking the poha.
+        Rinse until it becomes soft and pliable. This usually takes 1-2 minutes.
+        \n2. Let the rinsed poha sit in the colander for about 10-15 minutes to drain any excess water.
+        \n\nCooking the Poha:
+        \n3. Heat vegetable oil in a pan or kadai over medium heat.
+        \n4. Add mustard seeds and cumin seeds. Let them splutter.
+        \n5. Add raw peanuts and saute until they turn golden brown.
+        \n6. Add chopped onions and green chilies. Saute until the onions become translucent.
+        \n7. Add turmeric powder and curry leaves. Mix well.
+        \n8. Gently add the soaked and drained poha to the pan. Sprinkle salt and gently mix the poha with the tempering. Be careful not to break the poha.
+        \n9. Cover the pan with a lid and let it cook for about 5-7 minutes on low heat. This will allow the poha to heat through and absorb the flavors.
+        \n\nServing:
+        \n10. If you like, drizzle some lemon juice over the poha and garnish with fresh cilantro leaves and grated coconut.
+        \n11. Serve the hot and flavorful poha with a side of coconut chutney or sev (crispy noodles) for extra crunch.\n
+
+    </string>
+    <string name="recipe_22">
+        \nIngredients:
+        \n\nFor the Shahi Paneer Gravy:
+        \n- 200 grams paneer (cottage cheese), cut into cubes
+        \n- 2 tablespoons ghee or butter
+        \n- 1 large onion, finely chopped
+        \n- 2 large tomatoes, finely chopped
+        \n- 1/2 cup cashew nuts, soaked in warm water
+        \n- 1/4 cup milk or cream
+        \n- 1/2 teaspoon ginger-garlic paste
+        \n- 1/2 teaspoon red chili powder (adjust to taste)
+        \n- 1/2 teaspoon turmeric powder
+        \n- 1 teaspoon garam masala
+        \n- 1 teaspoon dried fenugreek leaves (kasuri methi)
+        \n- Salt to taste
+        \n- Fresh cilantro leaves for garnish
+
+        \n\nNotes:
+        \n\n- You can adjust the creaminess by using either milk or heavy cream. For a richer version, use heavy cream.
+        \n- You can also use almond paste in place of cashew nuts for a slightly different flavor.
+        \n- Adjust the spiciness by adding more or less red chili powder.
+
+        \n\nInstructions:
+        \n\nMaking the Shahi Paneer Gravy:
+        \n1. In a pan, heat ghee or butter over medium heat.
+        \n2. Add the finely chopped onions and saute until they become translucent and light brown.
+        \n3. Stir in the ginger-garlic paste and cook for a minute until the raw smell disappears.
+        \n4. Add the chopped tomatoes and cook until they turn soft and mushy.
+        \n5. Drain the soaked cashew nuts and grind them into a smooth paste using a little water.
+        \n6. Add the cashew nut paste to the pan and mix it with the onions and tomatoes.
+        \n7. Add red chili powder, turmeric powder, and salt. Cook the mixture until the oil starts to separate.
+        \n8. Add milk or cream and let the gravy simmer for a few minutes.
+        \n9. Stir in the dried fenugreek leaves (kasuri methi) and garam masala. Mix well and let the gravy thicken.
+        \n\nCooking the Paneer:
+        \n10. Gently add the paneer cubes to the gravy. Stir gently to coat the paneer with the sauce.
+        \n11. Cover the pan and let the paneer simmer in the gravy for a few minutes to absorb the flavors.
+        \n\nServing:
+        \n12. Serve the hot and creamy Shahi Paneer garnished with fresh cilantro leaves.\n
+
+    </string>
+    <string name="recipe_23">
+        \nIngredients:
+        \n\nFor the Uttapam Batter:
+        \n- 2 cups idli rice or regular rice
+        \n- 1/2 cup urad dal (black gram lentils)
+        \n- 1/4 cup chana dal (split chickpea lentils)
+        \n- A pinch of fenugreek seeds
+        \n- Salt to taste
+        \n- Water for soaking and grinding
+        \n\nFor Making Uttapam:
+        \n- Finely chopped vegetables (onions, tomatoes, green chilies, bell peppers, etc.)
+        \n- Chopped cilantro leaves (coriander leaves)
+        \n- Vegetable oil or ghee for cooking
+        \n- Salt to taste
+
+        \n\nNotes:
+        \n\n- The combination of rice and lentils is essential for the fermentation process, which gives Uttapam its characteristic flavor and texture.
+        \n- You can use any vegetables you prefer for topping the Uttapam. Common choices include onions, tomatoes, bell peppers, and green chilies.
+        \n- You can also add grated coconut or paneer for a unique twist.
+
+        \n\nInstructions:
+        \n\nPreparing the Uttapam Batter:
+        \n1. Wash the rice, urad dal, chana dal, and fenugreek seeds separately. Rinse them thoroughly until the water runs clear.
+        \n2. Soak the rice, urad dal, chana dal, and fenugreek seeds in separate bowls with enough water. Let them soak for at least 4-6 hours or overnight.
+        \n3. After soaking, drain the water from each of them.
+        \n4. Grind the urad dal, chana dal, and fenugreek seeds together into a smooth batter using as little water as possible. The batter should be light and fluffy.
+        \n5. Grind the rice in batches, adding water as needed, until you get a smooth batter. The rice batter should be slightly coarse compared to the urad dal batter.
+        \n6. Mix the urad dal and rice batter together in a large bowl. Add salt to taste.
+        \n7. Cover the bowl with a clean cloth and let it ferment for 8-12 hours or until it doubles in volume.
+        The time required for fermentation may vary depending on the climate and temperature.
+        \n\nMaking Uttapam:
+        \n8. Once the batter is fermented, it will be slightly sour in taste.
+        \n9. Heat a non-stick or cast-iron griddle (tava) over medium-high heat.
+        \n10. Grease the griddle lightly with oil or ghee using a paper towel or a piece of cloth.
+        \n11. Pour a ladleful of the Uttapam batter on the griddle and spread it in a circular motion to form a thick pancake.
+        \n12. Add the finely chopped vegetables of your choice, chopped cilantro leaves, and a little salt on top of the Uttapam.
+        \n13. Drizzle a little oil around the edges of the Uttapam and on the top.
+        \n14. Cover the griddle with a lid and cook until the bottom turns golden brown and crispy. This should take about 3-4 minutes.
+        \n15. Flip the Uttapam and cook for an additional 2-3 minutes until the other side is cooked and slightly crispy.
+        \n16. Remove the Uttapam from the griddle and serve hot.
+        \n\nServing:
+        \n17. Uttapam is traditionally served with coconut chutney and sambar.\n
+
+    </string>
+    <string name="recipe_24">
+        \nIngredients:
+        \n\nFor the Rice:
+        \n- 2 cups long-grain Basmati rice
+        \n- 4 cups water for cooking the rice
+        \n- 1 bay leaf
+        \n- 2-3 green cardamom pods
+        \n- 2-3 cloves
+        \n- Salt to taste
+        \n\nFor the Vegetable Layer:
+        \n- 2 cups mixed vegetables (carrots, beans, peas, potatoes, etc.), chopped
+        \n- 1 large onion, thinly sliced
+        \n- 2-3 green chilies, slit lengthwise (adjust to taste)
+        \n- 1/4 cup yogurt
+        \n- 2 tablespoons vegetable oil or ghee
+        \n- 1/2 teaspoon cumin seeds
+        \n- 1-inch piece of cinnamon
+        \n- 2-3 cloves
+        \n- 2-3 green cardamom pods
+        \n- 1 bay leaf
+        \n- 1/2 teaspoon red chili powder (adjust to taste)
+        \n- 1/2 teaspoon turmeric powder
+        \n- 1 teaspoon garam masala
+        \n- A pinch of saffron strands (soaked in 2 tablespoons of warm milk)
+        \n- Salt to taste
+        \n- Fresh cilantro leaves for garnish
+        \n- Fried onions for garnish (optional)
+
+        \n\nNotes:
+        \n\n- Basmati rice is ideal for making Biryani due to its long grains and fragrance.
+        \n- You can use any combination of vegetables you prefer for the vegetable layer.
+        \n- Adjust the spiciness by adding more or less green chilies and red chili powder according to your taste.
+
+        \n\nInstructions:
+        \n\nCooking the Rice:
+        \n1. Wash the Basmati rice under running water until the water runs clear. Soak the rice for 30 minutes.
+        \n2. In a large pot, bring 4 cups of water to a boil. Add a bay leaf, green cardamom pods, cloves, and salt.
+        \n3. Drain the soaked rice and add it to the boiling water. Cook until the rice is 70% cooked. You want it slightly undercooked at this stage.
+        \n4. Drain the rice and set it aside.
+        \n\nPreparing the Vegetable Layer:
+        \n5. Heat vegetable oil or ghee in a large, heavy-bottomed pan.
+        \n6. Add cumin seeds and let them splutter.
+        \n7. Add cinnamon, cloves, green cardamom pods, and bay leaf. Saute for a minute to release their aroma.
+        \n8. Add the sliced onions and green chilies. Saute until the onions turn golden brown.
+        \n9. Add the mixed vegetables and saute for a few minutes.
+        \n10. Add red chili powder, turmeric powder, and salt. Mix well.
+        \n11. Stir in the yogurt and cook until the vegetables are partially cooked and the oil starts to separate.
+        \n\nLayering and Dum Cooking:
+        \n12. In a large heavy-bottomed pot or biryani pot, layer the cooked rice and the vegetable mixture alternately.
+        Start with a layer of rice, followed by the vegetables, and so on.
+        \n13. Sprinkle garam masala and pour the saffron milk over the top layer. Garnish with fresh cilantro leaves and fried onions if desired.
+        \n14. Cover the pot with a tight-fitting lid or seal it with dough to trap the steam.
+        \n15. Place the pot on a griddle or tava over low heat and cook for about 20-25 minutes. This is known as dum cooking and helps infuse the flavors.
+        \n\nServing:
+        \n16. Gently fluff the Biryani with a fork before serving.
+        \n17. Serve your homemade Vegetable Biryani hot with raita, chutney, or salad.\n
+    </string>
+    <string name="recipe_25">
+        \nIngredients:
+        \n\nFor the Samosa Dough:
+        \n- 2 cups all-purpose flour
+        \n- 1/4 cup vegetable oil or ghee
+        \n- A pinch of salt
+        \n- Water, as needed
+        \n\nFor the Samosa Filling:
+        \n- 2 large potatoes, boiled, peeled, and diced
+        \n- 1/2 cup green peas (fresh or frozen)
+        \n- 1 small onion, finely chopped
+        \n- 2 cloves garlic, minced
+        \n- 1-inch piece of ginger, grated
+        \n- 1-2 green chilies, finely chopped (adjust to taste)
+        \n- 1 teaspoon cumin seeds
+        \n- 1 teaspoon coriander seeds (crushed)
+        \n- 1/2 teaspoon turmeric powder
+        \n- 1 teaspoon garam masala
+        \n- 1/2 teaspoon ground cumin
+        \n- 1/2 teaspoon ground coriander
+        \n- Salt to taste
+        \n- 2 tablespoons vegetable oil for cooking
+        \n- Fresh cilantro leaves, chopped (optional)
+        \n\nFor Frying:
+        \n- Vegetable oil for deep frying
+
+        \n\nNotes:
+        \n\n- To make the samosa pastry crispy, it is essential to use cold water when making the dough.
+        Additionally, allow the dough to rest for at least 30 minutes before using it.
+        \n- You can adjust the spiciness of the filling by adding or reducing the amount of green chilies.
+        \n- While folding the samosas, ensure they are sealed properly to prevent the filling from leaking during frying.
+
+        \n\nInstructions:
+        \n\nPreparing the Samosa Dough:
+        \n1. In a mixing bowl, combine the all-purpose flour, a pinch of salt, and 1/4 cup of vegetable oil or ghee.
+        \n2. Gradually add cold water and knead the mixture into a firm and smooth dough. Cover the dough with a damp cloth and let it rest for at least 30 minutes.
+        \n\nMaking the Samosa Filling:
+        \n3. In a pan, heat 2 tablespoons of vegetable oil over medium heat.
+        \n4. Add the cumin seeds and let them splutter. Then add the crushed coriander seeds.
+        \n5. Add the finely chopped onions, green chilies, ginger, and garlic. Saute until the onions turn golden brown.
+        \n6. Stir in the turmeric, garam masala, ground cumin, and ground coriander. Cook for a minute.
+        \n7. Add the diced and boiled potatoes and green peas. Mix well.
+        \n8. Cook the mixture for 5-7 minutes, mashing the potatoes slightly. Season with salt and garnish with chopped cilantro leaves if desired.
+        \n\nAssembling the Samosas:
+        \n9. Divide the rested dough into equal portions and roll them into balls. Roll each ball into a thin oval or circle and cut it in half to create two semi-circles.
+        \n10. Take one semi-circle, fold it into a cone shape, and seal the edges with a little water to form a pocket.
+        \n11. Fill the pocket with the potato and pea mixture.
+        \n12. Fold and seal the open edge to create a triangular samosa shape.
+        \n\ Frying the Samosas:
+        \n13. Heat vegetable oil for deep frying in a pan or deep fryer to around 350-375°F (180-190°C).
+        \n14. Gently slide a few samosas into the hot oil and fry them until they turn golden brown and crispy.
+        Remember to maintain the oil temperature throughout the frying process.
+        \n15. Use a slotted spoon to remove the fried samosas from the oil and place them on a paper towel to drain excess oil.
+        \n16. Serve your homemade samosas hot with chutney or sauce of your choice.\n
+
+
+    </string>
+    <string name="recipe_26">
+        \nIngredients:
+        \n\nFor the Dough:
+        \n- 2 1/4 cups all-purpose flour
+        \n- 1/4 cup granulated sugar
+        \n- 1 1/4 teaspoons salt
+        \n- 2 1/4 teaspoons active dry yeast
+        \n- 2/3 cup warm milk
+        \n- 2 tablespoons unsalted butter, melted
+        \n\nFor the Butter Layer:
+        \n- 1 cup (2 sticks) unsalted butter, cold
+
+        \n\nNotes:
+        \n\n- Make sure your butter is cold and firm when making the butter layer. Use high-quality butter for the best results.
+        \n- You can use a kitchen scale to measure your ingredients for accuracy, which is particularly important for making croissants.
+        \n- The key to great croissants is the lamination process, which involves folding and rolling the dough to create the layers.
+        Be patient and handle the dough gently to achieve the best results.
+
+        \n\nInstructions:
+        \n\nPreparing the Dough:
+        \n1. In a small bowl, mix the warm milk with the sugar. Sprinkle the yeast over the milk mixture and let it sit for about 5-10 minutes until it becomes frothy.
+        \n2. In a large mixing bowl, combine the flour and salt. Pour the yeast mixture and melted butter into the dry ingredients.
+        \n3. Mix everything together until you have a shaggy dough.
+        \n4. Turn the dough out onto a floured surface and knead it until it becomes smooth and elastic, about 5-10 minutes. Shape it into a ball.
+        \n5. Place the dough in a bowl, cover it with plastic wrap, and let it rest in the refrigerator for 30 minutes.
+        \n\nCreating the Butter Layer:
+        \n6. While the dough is resting, prepare the butter layer.
+        Place the cold butter between two sheets of parchment paper and use a rolling pin to flatten it into a rectangle that is about 1/3 inch thick.
+        \n7. Place the butter layer in the refrigerator to keep it cold while you work with the dough.
+        \n\nLaminating the Dough:
+        \n8. Roll out the chilled dough into a large rectangle, roughly twice the size of the butter layer.
+        \n9. Place the butter layer on one half of the dough and fold the other half over the butter layer, sealing the edges.
+        \n10. Roll out the dough into a rectangle again, then fold it into thirds, like a letter. This is the first fold.
+        \n11. Wrap the dough in plastic wrap and refrigerate it for at least 30 minutes.
+        \n12. Repeat the rolling and folding process three more times, chilling the dough for 30 minutes between each fold. This results in a total of four folds.
+        \n\nShaping and Baking:
+        \n13. After the final fold, refrigerate the dough for at least 1 hour or overnight.
+        \n14. Roll out the chilled dough into a large rectangle, about 1/4 inch thick.
+        \n15. Cut the dough into triangles, then roll each triangle from the wide end to the tip to create the classic croissant shape.
+        \n16. Place the croissants on a baking sheet lined with parchment paper.
+        \n17. Cover the croissants with a clean kitchen towel and let them rise at room temperature for about 1-2 hours until they are puffy.
+        \n18. Preheat your oven to 400°F (200°C).
+        \n19. Just before baking, brush the croissants with an egg wash (a beaten egg with a little milk).
+        \n20. Bake the croissants for about 15-20 minutes, or until they are golden brown and flaky.
+        \n21. Allow the croissants to cool on a wire rack.\n
+
+    </string>
+    <string name="recipe_27">
+        \nIngredients:
+        \n\n- 4 large yellow onions, thinly sliced
+        \n- 3 tablespoons unsalted butter
+        \n- 2 tablespoons olive oil
+        \n- 1 teaspoon salt
+        \n- 1/2 teaspoon sugar
+        \n- 6 cups beef or vegetable broth
+        \n- 1/2 cup dry white wine (optional)
+        \n- 2 cloves garlic, minced
+        \n- 1 bay leaf
+        \n- 4-6 slices of baguette or French bread
+        \n- 2 cups shredded Gruyere or Swiss cheese
+        \n- Freshly ground black pepper
+        \n- Fresh thyme leaves for garnish (optional)
+
+        \n\nNotes:
+        \n\n- The choice of onions is crucial. Yellow onions are the most commonly used,
+        but you can also use a combination of different onion varieties for a more complex flavor.
+        \n- Use high-quality beef or vegetable broth for the best results. Homemade broth is ideal, but store-bought works well too.
+        \n- Dry white wine adds depth to the soup, but it can be omitted if you prefer.
+        \n- Gruyere or Swiss cheese is traditionally used for the topping, but you can also use mozzarella or Parmesan.
+
+        \n\nInstructions:
+        \n\nCaramelizing the Onions:
+        \n1. In a large, heavy-bottomed pot, melt the butter and olive oil over medium-low heat.
+        \n2. Add the thinly sliced onions and cook them slowly, stirring occasionally.
+        This process takes time, typically 45 minutes to 1 hour, to achieve deep caramelization. Be patient.
+        \n3. When the onions are soft and have turned a rich golden brown color, add salt and sugar to help with caramelization. Continue cooking for a few more minutes.
+        \n\nSimmering the Soup:
+        \n4. Once the onions are caramelized, add minced garlic and cook for another 1-2 minutes.
+        \n5. Pour in the dry white wine (if using) to deglaze the pot. Scrape up any browned bits from the bottom of the pot.
+        \n6. Add the beef or vegetable broth and bay leaf to the pot. Bring the soup to a simmer and let it cook for about 20-30 minutes to develop flavors.
+        \n\nToasting the Bread and Melting the Cheese:
+        \n7. Preheat your oven.
+        \n8. Toast the slices of baguette or French bread until they are golden brown.
+        \n9. Remove the bay leaf from the soup.
+        \n10. Ladle the hot soup into oven-safe bowls. Place a slice of toasted bread on top of each bowl of soup.
+        \n11. Sprinkle a generous amount of shredded Gruyere or Swiss cheese over the bread.
+        \n12. Place the bowls on a baking sheet and put them under the broiler for a few minutes until the cheese is bubbly and golden brown.
+        Keep a close eye on it to avoid burning.
+        \n\nServing:
+        \n13. Carefully remove the bowls from the oven, as they will be hot. Sprinkle some freshly ground black pepper over the cheese.
+        \n14. Garnish with fresh thyme leaves if desired.\n
+
+    </string>
+    <string name="recipe_28">
+        \nIngredients:
+        \n\n- 4 slices of bread (typically white, whole wheat, or brioche)
+        \n- 2 large eggs
+        \n- 1/2 cup milk
+        \n- 1/2 teaspoon vanilla extract
+        \n- 1/2 teaspoon ground cinnamon (optional)
+        \n- 1/4 teaspoon ground nutmeg (optional)
+        \n- Pinch of salt
+        \n- Butter or vegetable oil for frying
+        \n- Maple syrup, powdered sugar, fresh berries, or other toppings of your choice
+
+        \n\nNotes:
+        \n\n- The type of bread you use can vary according to your preference.
+        Classic white bread is commonly used, but thicker slices of bread like brioche or challah result in a richer and more decadent French toast.
+        \n- The addition of spices like cinnamon and nutmeg enhances the flavor, but you can adjust or omit them based on your taste.
+        \n- You can use whole milk for a creamier custard mixture, but low-fat milk or dairy-free alternatives work too.
+
+        \n\nInstructions:
+        \n\nPreparing the Custard Mixture:
+        \n1. In a shallow bowl, whisk together the eggs, milk, vanilla extract, ground cinnamon (if using), ground nutmeg (if using), and a pinch of salt.
+        Mix until well combined.
+        \n\nSoaking and Cooking:
+        \n2. Heat a griddle or large skillet over medium-high heat and add a small amount of butter or vegetable oil to coat the cooking surface.
+        \n3. Dip a slice of bread into the custard mixture, ensuring it is coated on both sides.
+        \n4. Place the soaked bread on the hot griddle or skillet and cook until the bottom side turns golden brown, usually 2-3 minutes.
+        \n5. Flip the bread and cook the other side until it is also golden brown and the egg mixture is fully cooked.
+        \n6. Continue the process with the remaining slices of bread, adding more butter or oil to the pan as needed.
+        \n\nServing:
+        \n7. Serve the French toast hot with your choice of toppings, such as maple syrup, powdered sugar,
+        fresh berries, sliced bananas, whipped cream, or a dollop of yogurt.
+
+        \n\nNotes on Toppings:
+        \n\n- You can get creative with toppings, adding items like sliced almonds, chopped nuts, honey, chocolate chips, or even savory options like bacon and cheese.
+        \n- French toast is also great with a drizzle of fruit compote or a spread of your favorite fruit preserves.\n
+
+    </string>
+    <string name="recipe_29">
+        \nIngredients:
+        \n\nFor the Macaron Shells:
+        \n- 1 cup almond flour
+        \n- 2 cups powdered sugar
+        \n- 3 large egg whites, at room temperature
+        \n- 1/4 cup granulated sugar
+        \n- Gel food coloring (optional)
+        \n- 1/2 teaspoon vanilla extract (optional)
+        \nFor the Filling:
+        \n- Flavored ganache, buttercream, or jam of your choice
+
+        \n\nNotes:
+        \n\n- It is essential to use aged egg whites for your macarons.
+        You can age egg whites by leaving them at room temperature for 24-48 hours or using fresh egg whites that you microwave for a few seconds and then let cool.
+        \n- Sift the almond flour and powdered sugar to ensure a smooth, lump-free batter.
+        \n- Gel food coloring is preferable because it does not alter the consistency of the macaron batter. Liquid food coloring can make the batter too runny.
+        \n- Flavor the macaron shells by adding a touch of vanilla extract or other extracts of your choice.
+        \n- The filling options are versatile; you can use chocolate ganache, fruit preserves, flavored buttercream, or other creamy fillings.
+
+        \n\nInstructions:
+        \n\nMaking the Macaron Shells:
+        \n1. In a food processor, combine almond flour and powdered sugar. Pulse until well mixed and fine. Sift the mixture into a large mixing bowl.
+        \n2. In a separate mixing bowl, beat the room-temperature egg whites until they become frothy.
+        \n3. Gradually add the granulated sugar to the egg whites, and continue to beat until you get glossy stiff peaks.
+        If you want to color your macarons, add the gel food coloring and vanilla extract to the meringue and mix.
+        \n4. Gently fold the sifted almond flour and powdered sugar into the egg white mixture.
+        This is the macaronage process. You want the batter to be smooth, with a lava-like consistency, not too thick or too runny.
+        \n5. Transfer the batter to a piping bag with a round tip.
+        Pipe small, even circles onto a baking sheet lined with parchment paper or a silicone baking mat. Leave some space between each circle for spreading.
+        \n6. Tap the baking sheet on the counter to release air bubbles, and use a toothpick to pop any remaining bubbles.
+        \n7. Let the piped macarons sit at room temperature for 15-30 minutes until a skin forms on the surface.
+        This helps create the signature "feet" of macarons during baking.
+        \n\nBaking:
+        \n8. Preheat your oven to 300°F (150°C) while the macarons rest.
+        \n9. Bake the macarons for 12-15 minutes, rotating the baking sheet halfway through.
+        The macarons are done when they are firm, have feet, and have a slight crispiness on the outside.
+        \n10. Let the macarons cool on the baking sheet for a few minutes, then transfer them to a wire rack to cool completely.
+        \n\nFilling:
+        \n11. Match the macaron shells in pairs based on their size and shape.
+        \n12. Pipe or spread the desired filling onto one shell and sandwich it with another.
+        \nServing:
+        \n13. Allow the filled macarons to mature in an airtight container in the refrigerator for 24-48 hours.
+        This allows the flavors to meld and the texture to improve.\n
+    </string>
+    <string name="recipe_30">
+        \nIngredients:
+        \n\nFor the Chocolate Shell:
+        \n- 8 ounces (about 2 cups) semi-sweet chocolate chips or chopped chocolate
+        \n- 1 tablespoon vegetable oil
+        \n\nFor the Mint Chocolate Creme Filling:
+        \n- 1 cup heavy cream
+        \n- 1 cup semi-sweet chocolate chips or chopped chocolate
+        \n- 1/2 teaspoon peppermint extract (adjust to taste)
+        \n- A pinch of salt
+        \n- Fresh mint leaves for garnish (optional)
+
+        \n\nNotes:
+        \n\n- Use high-quality chocolate for both the shell and the filling for the best flavor and texture.
+        \n- Peppermint extract adds a refreshing minty flavor, but you can adjust the amount to suit your taste. Start with a small amount and add more if needed.
+        \n- Garnish with fresh mint leaves for a visually appealing and aromatic touch.
+
+        \n\nInstructions:
+        \n\nMaking the Chocolate Shell:
+        \n1. In a microwave-safe bowl or using a double boiler, melt the chocolate chips or chopped chocolate until smooth.
+        Stir in the vegetable oil to create a glossy texture.
+        \n2. Use a silicone mold or a regular muffin tin lined with paper liners. Spoon a small amount of melted chocolate into the bottom of each cavity.
+        Tilt the mold or tin to spread the chocolate evenly on the bottom and up the sides.
+        \n3. Place the mold or tin in the refrigerator to allow the chocolate to set. This should take about 15-20 minutes.
+        \n\nPreparing the Mint Chocolate Creme Filling:
+        \n4. In a saucepan, heat the heavy cream over medium-low heat until it is just about to boil. Remove it from the heat.
+        \n5. Add the chocolate chips or chopped chocolate to the hot cream and let it sit for a minute to soften.
+        \n6. Stir the mixture until the chocolate is completely melted and the filling is smooth.
+        \n7. Stir in the peppermint extract and a pinch of salt. Adjust the mint flavor to your liking.
+        \n\nFilling the Chocolate Shells:
+        \n8. Remove the mold or tin from the refrigerator. Carefully spoon the mint chocolate creme filling into each chocolate shell, leaving some space at the top.
+        \n9. Return the mold or tin to the refrigerator and let the filling set. This typically takes about 1-2 hours.
+        \n\nServing:
+        \n10. Once the Mint Chocolate Creme is fully set, carefully remove it from the mold or tin. If you used a muffin tin, peel off the paper liners.
+        \n11. Garnish with fresh mint leaves if desired.
+        \n12. Serve your Mint Chocolate Creme chilled and enjoy the delightful combination of smooth, minty filling and rich chocolate shell.
+
+    </string>
 </resources>

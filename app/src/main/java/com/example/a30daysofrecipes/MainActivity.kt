@@ -1,6 +1,7 @@
 package com.example.a30daysofrecipes
 
 import android.os.Bundle
+import android.widget.TextView
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
@@ -12,15 +13,19 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.KeyboardArrowDown
 import androidx.compose.material.icons.filled.KeyboardArrowUp
 import androidx.compose.material3.Card
+import androidx.compose.material3.CenterAlignedTopAppBar
+import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -32,6 +37,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
@@ -58,27 +64,39 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun RecipeApp(){
-    RecipeList(
-        recipeList= Datasource().loadRecipes(),
-    )
-}
-
-@Composable
-fun RecipeList(
-    recipeList: List<Dish>,
-    modifier: Modifier=Modifier
-){
-    LazyColumn(modifier=modifier){
-        items(recipeList){dish->
-            RecipeCard(
-                dish=dish,
-                modifier=Modifier.padding(8.dp)
-            )
+    Scaffold(
+        topBar = {
+            RecipeTopBar()
+        }
+    ){
+        LazyColumn(contentPadding = it){
+            items(Datasource().loadRecipes()) { dish ->
+                RecipeCard(
+                    dish = dish,
+                    modifier = Modifier.padding(8.dp)
+                )
+            }
         }
     }
 }
+
+//@Composable
+//fun RecipeList(
+//    recipeList: List<Dish>,
+//    modifier: Modifier=Modifier
+//){
+//    LazyColumn(modifier=modifier){
+//        items(recipeList){dish->
+//            RecipeCard(
+//                dish=dish,
+//                modifier=Modifier.padding(8.dp)
+//            )
+//        }
+//    }
+//}
 
 @Composable
 private fun RecipeItemButton(
@@ -140,11 +158,36 @@ fun RecipeCard(
             }
             if(expanded){
                 Text(
-                    text= LocalContext.current.getString(dish.stringResourceId3),
+                    text= stringResource(dish.stringResourceId3),
                 )
             }
         }
     }
+}
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun RecipeTopBar(modifier:Modifier=Modifier){
+    CenterAlignedTopAppBar(
+        title = {
+            Row (
+                verticalAlignment = Alignment.CenterVertically
+            ){
+//                Image(
+//                    modifier= Modifier
+//                        .size(dimensionResource(id = R.dimen.image_size))
+//                        .padding(dimensionResource(id = R.dimen.padding_small)),
+//                    painter = painterResource(id = R.drawable.),
+//                    contentDescription = null
+//                )
+                Text(
+                    text="The Monthly Cookbook",
+                    style=MaterialTheme.typography.labelLarge
+                )
+            }
+        },
+        modifier=modifier
+    )
 }
 
 @Preview(showBackground = true)
